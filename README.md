@@ -1,2 +1,3 @@
 # Hello_world
-just a new 
+Hey, I'm jamilu Abdullahi Kadiya
+I like python and programing in general.
